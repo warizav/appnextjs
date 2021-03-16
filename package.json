@@ -1,0 +1,24 @@
+{
+  "name": "nextapp",
+  "version": "1.0.0",
+  "description": "test app next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warizav/appnextjs.git"
+  },
+  "keywords": [
+    "app",
+    "test",
+    "nextjs"
+  ],
+  "author": "william ariza (wilarizav@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warizav/appnextjs/issues"
+  },
+  "homepage": "https://github.com/warizav/appnextjs#readme"
+}
